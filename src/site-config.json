@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "SB Electrical Services LLC",
+    "phone": "+13176150564",
+    "category": "electrical contractor",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis's Trusted Electrical Experts",
+      "heroSubline": "Powering homes and businesses across Indianapolis. SB Electrical Services delivers reliable solutions with expertise and integrity.",
+      "aboutTitle": "Dedicated to Powering Central Indiana",
+      "aboutText": [
+        "SB Electrical Services LLC started with a simple mission: to provide Indianapolis with electrical services built on quality, reliability, and trust. Founded by a team of experienced electricians deeply rooted in the community, we understand the unique electrical needs of homes and businesses throughout Marion County.",
+        "We approach every project, big or small, with meticulous attention to detail and a commitment to exceeding expectations. Our team prioritizes clear communication, transparent pricing, and efficient execution, ensuring a smooth and stress-free experience for our clients.",
+        "As a local company, we are invested in the well-being of our community. We actively support local initiatives and strive to be a responsible and ethical business partner, powering Indianapolis's future, one project at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Expertise You Can Trust",
+          "description": "Licensed, insured, and highly trained electricians providing solutions tailored to Indianapolis homes and businesses."
+        },
+        {
+          "title": "Reliable & On-Time",
+          "description": "We value your time. Count on us for punctual service and clear communication throughout your project."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide upfront, detailed estimates, so you know exactly what to expect."
+        },
+        {
+          "title": "Safety First",
+          "description": "Adhering to the highest safety standards to protect your property and ensure a secure electrical system."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Electrical Estimate Today!",
+      "ctaSubline": "Contact SB Electrical Services for reliable solutions and expert service in Indianapolis and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "residential-electrical-services",
+        "name": "Residential Electrical Services",
+        "shortDescription": "Comprehensive electrical solutions for Indianapolis homes, from wiring upgrades to lighting installations.",
+        "description": "SB Electrical Services understands the unique electrical demands of Indianapolis homes, from the older wiring systems in Broad Ripple bungalows to the modern electrical needs of Fishers family homes. We provide a full range of residential electrical services, including wiring upgrades, electrical panel replacements, lighting installations, outlet and switch repairs, and whole-house surge protection.\n\nOur experienced electricians are skilled in troubleshooting complex electrical issues, ensuring the safety and efficiency of your home's electrical system. We address common Indianapolis housing challenges like outdated knob-and-tube wiring, insufficient outlets, and overloaded circuits that are common in older homes around Fountain Square and Irvington. We also provide solutions for newer homes in Carmel and Fishers, including smart home integration and energy-efficient lighting upgrades.\n\nWe prioritize safety and code compliance in every project, ensuring your home meets the latest electrical standards. From simple repairs to complete rewiring projects, SB Electrical Services delivers reliable and professional residential electrical services throughout Indianapolis.",
+        "process": [
+          "Step 1: Schedule a Consultation: Contact us to discuss your electrical needs and schedule a convenient appointment.",
+          "Step 2: On-Site Assessment: Our electrician will conduct a thorough inspection of your home's electrical system.",
+          "Step 3: Detailed Proposal: We'll provide a clear and detailed proposal outlining the scope of work and transparent pricing.",
+          "Step 4: Expert Installation: Our skilled technicians will perform the work efficiently and safely, minimizing disruption to your home."
+        ],
+        "benefits": [
+          "Enhanced Home Safety",
+          "Improved Energy Efficiency",
+          "Increased Property Value",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my home's electrical system inspected?",
+            "answer": "It's recommended to have your electrical system inspected every 3-5 years, especially if you live in an older home or experience frequent electrical issues. Regular inspections can identify potential hazards and prevent costly repairs."
+          },
+          {
+            "question": "What are the signs of an overloaded electrical circuit?",
+            "answer": "Common signs include frequently tripped breakers, flickering lights, warm outlets, and the smell of burning plastic. These issues can indicate a serious electrical problem that requires immediate attention."
+          },
+          {
+            "question": "Can you install smart home devices?",
+            "answer": "Yes, we can install and integrate a variety of smart home devices, including smart thermostats, lighting controls, security systems, and more. We'll ensure seamless integration with your existing electrical system."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical-services",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Expert electrical solutions for Indianapolis businesses, ensuring safety and efficiency for your operations.",
+        "description": "SB Electrical Services provides comprehensive commercial electrical services to businesses throughout Indianapolis, from retail spaces on Mass Ave to industrial facilities near the airport. We understand the critical role electricity plays in your business operations, and we are committed to delivering reliable and efficient solutions.\n\nOur commercial electrical services include electrical panel upgrades, lighting design and installation, data cabling, emergency backup systems, and routine maintenance. We handle projects of all sizes, from small office renovations to large-scale industrial installations. We are experienced in working with a variety of commercial properties, including restaurants, retail stores, office buildings, and warehouses.\n\nWe prioritize safety and code compliance in all our commercial projects, ensuring your business meets the latest electrical standards. We understand the importance of minimizing downtime, and we work efficiently to complete projects on time and within budget. Whether you need a new electrical system installed or repairs to your existing system, SB Electrical Services is your trusted partner for commercial electrical services in Indianapolis.",
+        "process": [
+          "Step 1: Consultation & Assessment: We'll discuss your business's electrical needs and conduct a thorough assessment of your existing system.",
+          "Step 2: Customized Solutions: We'll develop a customized electrical plan tailored to your specific requirements and budget.",
+          "Step 3: Professional Installation: Our licensed electricians will perform the installation with minimal disruption to your business operations.",
+          "Step 4: Ongoing Support: We offer ongoing maintenance and support to ensure your electrical system operates efficiently and safely."
+        ],
+        "benefits": [
+          "Reduced Energy Costs",
+          "Improved Workplace Safety",
+          "Enhanced Productivity",
+          "Minimized Downtime"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer electrical maintenance contracts for businesses?",
+            "answer": "Yes, we offer customized electrical maintenance contracts to help businesses maintain their electrical systems and prevent costly repairs. Our maintenance contracts include regular inspections, testing, and preventative maintenance services."
+          },
+          {
+            "question": "Can you install energy-efficient lighting in my business?",
+            "answer": "Yes, we specialize in energy-efficient lighting solutions for businesses. We can help you reduce your energy consumption and lower your utility bills by installing LED lighting and other energy-saving technologies."
+          },
+          {
+            "question": "Are you available for emergency electrical repairs?",
+            "answer": "Yes, we offer 24/7 emergency electrical repair services to businesses in Indianapolis. We understand that electrical emergencies can disrupt your operations, and we are available to respond quickly and efficiently to resolve any issues."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for increased capacity and enhanced safety in your Indianapolis home.",
+        "description": "Is your electrical panel outdated or insufficient for your current electrical needs? SB Electrical Services provides expert electrical panel upgrades for homes and businesses in Indianapolis. An upgraded electrical panel can provide increased capacity to handle modern appliances and electronics, improve safety by preventing overloads, and ensure your electrical system meets current code requirements.\n\nMany older homes in Indianapolis, particularly in neighborhoods like Broad Ripple and Meridian-Kessler, have outdated electrical panels that are no longer adequate for today's electrical demands. We can replace your old panel with a new, higher-capacity panel that can safely handle all your electrical needs. We also offer subpanel installations to provide additional circuits for specific areas of your home or business.\n\nWe handle all aspects of the electrical panel upgrade process, including obtaining permits, coordinating with the utility company, and ensuring the installation meets all applicable codes and regulations. We prioritize safety and quality in every project, ensuring your new electrical panel provides reliable and safe power for years to come.",
+        "process": [
+          "Step 1: Electrical Load Calculation: We'll assess your current and future electrical needs to determine the appropriate panel size.",
+          "Step 2: Permit Acquisition: We'll obtain all necessary permits from the City of Indianapolis.",
+          "Step 3: Panel Installation: Our licensed electricians will safely and efficiently install your new electrical panel.",
+          "Step 4: Inspection & Testing: We'll ensure the installation meets all code requirements and perform thorough testing."
+        ],
+        "benefits": [
+          "Increased Electrical Capacity",
+          "Improved Safety",
+          "Enhanced Home Value",
+          "Code Compliance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequently tripped breakers, flickering lights, and the inability to use multiple appliances simultaneously. If you experience these issues, it's time to consider an electrical panel upgrade."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "The duration of an electrical panel upgrade typically ranges from 4 to 8 hours, depending on the complexity of the project. We'll provide you with a more accurate estimate during the consultation."
+          },
+          {
+            "question": "Do I need a permit for an electrical panel upgrade?",
+            "answer": "Yes, a permit is required for an electrical panel upgrade in Indianapolis. We'll handle the permit process for you, ensuring all work is compliant with local codes and regulations."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Enhance your Indianapolis home or business with professional lighting installation services.",
+        "description": "SB Electrical Services provides expert lighting installation services for homes and businesses throughout Indianapolis. Whether you're looking to upgrade your home's lighting with new recessed lights, install energy-efficient LED lighting in your office, or create a stunning outdoor lighting design, we have the expertise to bring your vision to life.\n\nWe offer a wide range of lighting installation services, including recessed lighting, pendant lighting, track lighting, landscape lighting, and security lighting. We work with a variety of lighting styles and technologies, including smart lighting systems that can be controlled with your smartphone or voice commands. We can help you choose the right lighting fixtures and designs to enhance the aesthetics and functionality of your space.\n\nWe prioritize energy efficiency in all our lighting installations, recommending LED lighting options that can save you money on your energy bills. We also ensure all our installations meet code requirements and are performed safely and professionally.",
+        "process": [
+          "Step 1: Design Consultation: We'll discuss your lighting goals and preferences and create a customized lighting design.",
+          "Step 2: Fixture Selection: We'll help you choose the right lighting fixtures to match your style and budget.",
+          "Step 3: Professional Installation: Our experienced electricians will install your new lighting fixtures safely and efficiently.",
+          "Step 4: Testing & Adjustment: We'll test your new lighting system to ensure it's working properly and make any necessary adjustments."
+        ],
+        "benefits": [
+          "Improved Aesthetics",
+          "Increased Energy Efficiency",
+          "Enhanced Security",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and produces less heat than traditional lighting options. LED bulbs also come in a variety of colors and styles, making them a versatile choice for any space."
+          },
+          {
+            "question": "Can you install outdoor lighting?",
+            "answer": "Yes, we can install a variety of outdoor lighting options, including landscape lighting, security lighting, and patio lighting. We'll help you create a beautiful and functional outdoor space."
+          },
+          {
+            "question": "Do you offer smart lighting installation?",
+            "answer": "Yes, we can install smart lighting systems that can be controlled with your smartphone or voice commands. Smart lighting can help you save energy and create customized lighting scenes."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-and-switch-repair",
+        "name": "Outlet and Switch Repair",
+        "shortDescription": "Reliable outlet and switch repair services for Indianapolis homes and businesses.",
+        "description": "Faulty outlets and switches can be a safety hazard and inconvenience. SB Electrical Services provides prompt and reliable outlet and switch repair services for homes and businesses throughout Indianapolis. Whether you have a broken outlet, a flickering switch, or a loose connection, our experienced electricians can diagnose and repair the problem quickly and efficiently.\n\nWe handle all types of outlet and switch repairs, including replacing broken outlets, repairing faulty switches, and troubleshooting wiring issues. We prioritize safety in all our repairs, ensuring your electrical system is functioning properly and safely. We also offer GFCI outlet installation for areas prone to moisture, such as bathrooms and kitchens, to protect against electrical shock.\n\nWe understand the importance of having a safe and functioning electrical system, and we are committed to providing prompt and reliable repair services to our customers in Indianapolis.",
+        "process": [
+          "Step 1: Troubleshooting: We'll diagnose the problem with your outlet or switch.",
+          "Step 2: Repair or Replacement: We'll repair or replace the faulty outlet or switch as needed.",
+          "Step 3: Safety Inspection: We'll inspect the wiring and connections to ensure they are safe and secure.",
+          "Step 4: Testing: We'll test the repaired or replaced outlet or switch to ensure it's functioning properly."
+        ],
+        "benefits": [
+          "Improved Safety",
+          "Convenient Functionality",
+          "Prevention of Further Damage",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a faulty outlet or switch?",
+            "answer": "Common signs include a burning smell, flickering lights, sparks, and a loose or wobbly outlet or switch. If you notice any of these signs, it's important to have the outlet or switch repaired or replaced immediately."
+          },
+          {
+            "question": "What is a GFCI outlet?",
+            "answer": "A GFCI (Ground Fault Circuit Interrupter) outlet is designed to protect against electrical shock. It's required in areas prone to moisture, such as bathrooms, kitchens, and outdoor locations."
+          },
+          {
+            "question": "Can I replace an outlet or switch myself?",
+            "answer": "While it may be tempting to replace an outlet or switch yourself, it's important to hire a qualified electrician to ensure the work is done safely and correctly. Electrical work can be dangerous, and it's best to leave it to the professionals."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-surge-protection",
+        "name": "Whole-House Surge Protection",
+        "shortDescription": "Protect your Indianapolis home from power surges with whole-house surge protection.",
+        "description": "Power surges can damage or destroy your valuable electronics and appliances. SB Electrical Services provides whole-house surge protection solutions to protect your Indianapolis home from damaging power surges. A whole-house surge protector is installed at your electrical panel and protects all the electrical circuits in your home from surges caused by lightning, power outages, or faulty appliances.\n\nIndianapolis is prone to severe thunderstorms, which can cause frequent power surges. A whole-house surge protector can provide a critical layer of protection for your electronics and appliances, preventing costly repairs or replacements. We offer a variety of whole-house surge protection options to meet your specific needs and budget.\n\nWe'll assess your home's electrical system and recommend the appropriate surge protection solution. We'll also ensure the installation meets code requirements and is performed safely and professionally.",
+        "process": [
+          "Step 1: Electrical System Assessment: We'll assess your home's electrical system to determine the appropriate surge protection solution.",
+          "Step 2: Surge Protector Selection: We'll help you choose the right surge protector to meet your needs and budget.",
+          "Step 3: Professional Installation: Our experienced electricians will install the surge protector at your electrical panel.",
+          "Step 4: Testing: We'll test the surge protector to ensure it's functioning properly."
+        ],
+        "benefits": [
+          "Protection for Electronics and Appliances",
+          "Prevention of Costly Repairs",
+          "Increased Safety",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "What is a power surge?",
+            "answer": "A power surge is a sudden increase in voltage that can damage or destroy electronics and appliances. Power surges can be caused by lightning, power outages, or faulty appliances."
+          },
+          {
+            "question": "How does a whole-house surge protector work?",
+            "answer": "A whole-house surge protector diverts excess voltage away from your electrical circuits, protecting your electronics and appliances from damage."
+          },
+          {
+            "question": "Is whole-house surge protection worth the investment?",
+            "answer": "Yes, whole-house surge protection is a worthwhile investment to protect your valuable electronics and appliances from damaging power surges. The cost of a surge protector is significantly less than the cost of replacing damaged electronics."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "SB Electrical Services LLC is proud to provide comprehensive electrical services to the residents and businesses of Carmel, Indiana. Known for its upscale developments primarily built between the 1980s and 2000s, Carmel features a diverse range of electrical needs, from updating older homes to ensuring the efficiency of modern constructions. We understand the unique requirements of Carmel's properties and are committed to delivering top-quality workmanship. \n\nOur experienced electricians are well-equipped to handle any electrical project in Carmel, whether it's installing energy-efficient lighting in a newly renovated kitchen, upgrading electrical panels to meet the demands of modern appliances, or providing emergency repairs during the cold Indiana winters when power outages can be a serious concern. We prioritize safety and reliability in every job we undertake, ensuring that your electrical systems are functioning optimally and protecting your home or business.",
+        "localContext": "Carmel, Indiana, is characterized by its master-planned communities and high quality of life, which are reflected in the attention to detail in its homes and businesses. The climate features cold winters with snow and ice, requiring reliable heating systems and robust electrical infrastructure.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Fishers",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "SB Electrical Services LLC is dedicated to serving the rapidly growing community of Fishers, Indiana. With its numerous planned communities developed from the 1990s to the present, Fishers presents a variety of electrical needs, from new construction wiring to upgrading existing systems in established neighborhoods. We are committed to providing Fishers residents and businesses with reliable and efficient electrical solutions. \n\nWe offer a full range of electrical services in Fishers, including electrical inspections, lighting installations, outlet and switch replacements, and whole-house surge protection. We know that Fishers experiences cold winters with snow and ice, placing extra strain on electrical systems. Our team is prepared to provide prompt and dependable service, ensuring the safety and comfort of your home or business during any season.",
+        "localContext": "Fishers, Indiana, is known for its family-friendly atmosphere and master-planned communities, often requiring modern electrical solutions and upgrades to keep pace with current technology. The cold winters necessitate reliable heating systems and well-maintained electrical infrastructure.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Carmel",
+          "Noblesville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "SB Electrical Services LLC provides expert electrical services to the historic city of Noblesville, Indiana. Home to the iconic Courthouse Square and many older homes, Noblesville presents unique electrical challenges, from preserving historical wiring to upgrading systems to meet modern demands. We understand the nuances of working with older properties and are dedicated to providing safe and reliable electrical solutions. \n\nOur services in Noblesville include knob and tube wiring replacement, electrical panel upgrades, lighting repairs, and electrical inspections. We are also experienced in working with the unique architectural styles found in the historic Courthouse Square area. We understand that Noblesville experiences cold winters with snow and ice, which can exacerbate existing electrical problems. We are committed to providing prompt and dependable service, ensuring the safety and comfort of your home or business during any season.",
+        "localContext": "Noblesville, Indiana, is a blend of historic charm and modern living, requiring a careful approach to electrical work that respects the past while embracing current technology. The climate includes cold winters with snow and ice, impacting electrical systems.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "SB Electrical Services LLC is proud to serve the diverse electrical needs of Indianapolis, Indiana, the state's capital and largest city. From downtown businesses to residential neighborhoods, we offer a comprehensive range of electrical solutions to meet the unique demands of this vibrant city. We are committed to providing Indianapolis residents and businesses with reliable, safe, and efficient electrical services.\n\nOur services in Indianapolis include electrical repairs, installations, upgrades, and maintenance. We handle everything from simple outlet replacements to complex wiring projects. We understand that Indianapolis experiences a wide range of weather conditions, from hot summers to cold winters, and we are prepared to provide prompt and dependable service, ensuring the safety and comfort of your home or business during any season.",
+        "localContext": "Indianapolis, Indiana, is a major metropolitan area with a diverse range of electrical needs, from historic homes to modern high-rises. The city experiences a humid continental climate with cold winters and hot summers.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "SB Electrical Services LLC extends its expert electrical services to Zionsville, Indiana, a charming town known for its brick-paved Main Street and historic architecture. We understand the unique electrical needs of Zionsville's homes and businesses, and we are committed to providing top-quality workmanship and reliable service.\n\nOur services in Zionsville include electrical inspections, repairs, upgrades, and installations. We are experienced in working with older homes and businesses, as well as new construction projects. We understand that Zionsville experiences cold winters with snow and ice, which can impact electrical systems. We are prepared to provide prompt and dependable service, ensuring the safety and comfort of your home or business during any season.",
+        "localContext": "Zionsville, Indiana, is a historic town with a blend of older homes and newer developments, requiring a careful approach to electrical work that respects the past while embracing current technology. The climate includes cold winters with snow and ice.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "SB Electrical Services LLC is pleased to offer comprehensive electrical services to the residents and businesses of Westfield, Indiana. Known for its rapid growth and family-friendly atmosphere, Westfield presents a variety of electrical needs, from new construction wiring to upgrades in established homes. We are dedicated to providing Westfield with reliable and efficient electrical solutions.\n\nOur services in Westfield include electrical inspections, lighting installations, outlet and switch replacements, and whole-house surge protection. We understand that Westfield experiences cold winters with snow and ice, placing extra strain on electrical systems. Our team is prepared to provide prompt and dependable service, ensuring the safety and comfort of your home or business during any season.",
+        "localContext": "Westfield, Indiana, is a growing suburban community with a mix of residential and commercial properties, requiring a range of electrical services to support its continued development. The cold winters necessitate reliable heating systems and well-maintained electrical infrastructure.",
+        "nearbyAreas": [
+          "Carmel",
+          "Noblesville",
+          "Sheridan"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "SB Electrical Services LLC proudly serves the town of Brownsburg, Indiana, providing expert electrical services to homes and businesses alike. Brownsburg is a growing community with a mix of residential neighborhoods and commercial areas, creating a diverse range of electrical needs. We are committed to delivering reliable and efficient electrical solutions to the residents and business owners of Brownsburg.\n\nOur services in Brownsburg include electrical repairs, installations, upgrades, and maintenance. Whether it's troubleshooting a faulty outlet, installing new lighting fixtures, or upgrading an electrical panel, our experienced electricians are equipped to handle any job. We understand that Brownsburg experiences cold winters and hot summers, and we are prepared to provide prompt and dependable service, ensuring the safety and comfort of your home or business year-round.",
+        "localContext": "Brownsburg, Indiana, is a suburban town with a mix of residential and commercial properties, requiring a range of electrical services to support its growing population and economy. The climate includes cold winters and hot summers, impacting electrical systems.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "SB Electrical Services LLC extends its professional electrical services to Greenwood, Indiana, a thriving city with a mix of residential, commercial, and industrial properties. We understand the diverse electrical needs of Greenwood's residents and businesses, and we are committed to providing top-quality workmanship and reliable service.\n\nOur services in Greenwood include electrical inspections, repairs, upgrades, and installations. We are experienced in working with a variety of properties, from older homes to modern commercial buildings. We understand that Greenwood experiences cold winters and hot summers, which can impact electrical systems. We are prepared to provide prompt and dependable service, ensuring the safety and comfort of your home or business during any season.",
+        "localContext": "Greenwood, Indiana, is a city with a diverse mix of residential, commercial, and industrial properties, requiring a wide range of electrical services to support its economy and community. The climate includes cold winters and hot summers.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Franklin",
+          "Whiteland"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "SB Electrical Services did a fantastic job upgrading our electrical panel. We live in an older home in Broad Ripple, and our old panel was struggling to keep up with our electrical needs. The team was professional, efficient, and explained everything clearly. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "We hired SB Electrical Services to install recessed lighting in our kitchen and pendant lighting over our island. The results are stunning! The team was very knowledgeable about different lighting options and helped us choose the perfect fixtures. The installation was quick and clean. Great service!",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Outlet Repair",
+        "text": "I had a few outlets that weren't working properly in my office. SB Electrical Services came out quickly and diagnosed the problem. They were able to repair the outlets efficiently and at a reasonable price. I appreciate their prompt and professional service.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Commercial Electrical Services",
+        "text": "SB Electrical Services has been our go-to electrician for our restaurant for years. They're always responsive, reliable, and provide excellent service. They recently upgraded our lighting system and fixed some electrical issues. I highly recommend them to other businesses.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 5,
+        "service": "Whole-House Surge Protection",
+        "text": "After a bad thunderstorm, I decided to invest in whole-house surge protection. SB Electrical Services installed a surge protector at my electrical panel, and I now have peace of mind knowing my electronics are protected. The installation was quick and professional.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Residential Electrical Services",
+        "text": "SB Electrical Services rewired part of my house and installed new outlets. The work was done to code and the electricians were professional. There was a slight delay scheduling, but overall I was satisfied with the work.",
+        "date": "2025-02-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "SB Electrical Services LLC | Indianapolis Electrician",
+        "description": "Reliable electrical services in Indianapolis. Residential & commercial experts. Licensed & insured. Call +13176150564 for a free estimate!"
+      },
+      "about": {
+        "title": "About SB Electrical Services LLC | Indianapolis, IN",
+        "description": "Learn about SB Electrical Services LLC, your trusted Indianapolis electrician. Experienced, reliable, and committed to quality workmanship."
+      },
+      "services": {
+        "title": "Electrical Services | Indianapolis, IN | SB Electrical",
+        "description": "Comprehensive electrical services in Indianapolis: panel upgrades, lighting, repairs & more. Licensed electricians. Call +13176150564."
+      },
+      "contact": {
+        "title": "Contact SB Electrical Services LLC | Indianapolis, IN",
+        "description": "Contact SB Electrical Services LLC for reliable electrical services in Indianapolis. Get a free estimate today! Call +13176150564."
+      },
+      "reviews": {
+        "title": "SB Electrical Services LLC Reviews | Indianapolis, IN",
+        "description": "Read reviews for SB Electrical Services LLC in Indianapolis. See what our customers say about our electrical services. Call +13176150564."
+      },
+      "service-areas": {
+        "title": "SB Electrical Services Service Areas | Indianapolis, IN",
+        "description": "SB Electrical Services provides electrical services throughout Indianapolis and surrounding areas. Call +13176150564 for service near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-electrical-services": "/images/service-residential-electrical-services.webp",
+      "commercial-electrical-services": "/images/service-commercial-electrical-services.webp",
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-and-switch-repair": "/images/service-outlet-and-switch-repair.webp",
+      "whole-house-surge-protection": "/images/service-whole-house-surge-protection.webp"
+    },
+    "servicesResponsive": {
+      "residential-electrical-services": {
+        "src": "/images/service-residential-electrical-services.webp",
+        "srcset": "/images/service-residential-electrical-services-400w.webp 400w, /images/service-residential-electrical-services-800w.webp 800w, /images/service-residential-electrical-services-1200w.webp 1200w, /images/service-residential-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical-services": {
+        "src": "/images/service-commercial-electrical-services.webp",
+        "srcset": "/images/service-commercial-electrical-services-400w.webp 400w, /images/service-commercial-electrical-services-800w.webp 800w, /images/service-commercial-electrical-services-1200w.webp 1200w, /images/service-commercial-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-and-switch-repair": {
+        "src": "/images/service-outlet-and-switch-repair.webp",
+        "srcset": "/images/service-outlet-and-switch-repair-400w.webp 400w, /images/service-outlet-and-switch-repair-800w.webp 800w, /images/service-outlet-and-switch-repair-1200w.webp 1200w, /images/service-outlet-and-switch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-surge-protection": {
+        "src": "/images/service-whole-house-surge-protection.webp",
+        "srcset": "/images/service-whole-house-surge-protection-400w.webp 400w, /images/service-whole-house-surge-protection-800w.webp 800w, /images/service-whole-house-surge-protection-1200w.webp 1200w, /images/service-whole-house-surge-protection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
